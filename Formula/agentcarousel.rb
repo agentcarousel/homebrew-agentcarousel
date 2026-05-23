@@ -14,8 +14,8 @@
 class Agentcarousel < Formula
   desc "CLI to validate, test, and evaluate AI agent fixtures"
   homepage "https://agentcarousel.com"
-  url "https://github.com/agentcarousel/agentcarousel/archive/refs/tags/v0.6.3.tar.gz"
-  sha256 "15a34a8c3f6426e50642347870293d8a15f583714c308a908138fb69e0fd008d"
+  url "https://github.com/agentcarousel/agentcarousel/archive/refs/tags/v0.6.4.tar.gz"
+  sha256 "6c56a68bf6ac2615fd2fc8abf58fe0536bdd151484ebe152dc66cd601c99999b"
   license "Apache-2.0"
   head "https://github.com/agentcarousel/agentcarousel.git", branch: "main"
 
